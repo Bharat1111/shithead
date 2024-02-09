@@ -286,7 +286,7 @@ nav ul li a{
     border-radius: 7px;
     transition: 0.2s ease;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    margin: auto;
+    margin-bottom: 100px;
 }
 .content-packages:hover{
     box-shadow: 1px 1px 10px rgb(201, 201, 201);
@@ -474,7 +474,6 @@ footer{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 40px;
 }
 .column{
     flex: 33.33%;
